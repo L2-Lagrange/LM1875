@@ -19,8 +19,13 @@ Overall the performance of this system is fantastic. It is also a very simple, r
 The performance could be significantly improved by using a better signal source, and passive crossovers. It can also be a modular part of an active crossover system.
 I suspect the performance would be quite hi-fi with those improvements, however the practical build version has great performance.
 
+<p align="center">
+  <img src="Schematic_LM1875PowerStage.jpg" width="400">
+</p>
 
-
+<p align="center">
+  <img src="Schematic_Reciever.jpg" width="400">
+</p>
 
 
 The Bluetooth Reciever: (I could not find an exact datasheet for the chips)
