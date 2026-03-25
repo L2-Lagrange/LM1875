@@ -2,10 +2,10 @@
 This repository holds the schematics for my LM1875 bridge tied load bluetooth system design
 
 
+<img src="Amplifier Prototype Image V001.jpg" width="400">
 
 ![Description](Amplifier_Prototype_Image_V001.jpg)
 
-<img src="Amplifier Prototype Image V001.jpg" width="400">
 
 
 
