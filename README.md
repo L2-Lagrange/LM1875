@@ -1,6 +1,15 @@
 # LM1875
 This repository holds the schematics for my LM1875 bridge tied load bluetooth system design
 
+
+
+![Description](Amplifier_Prototype_Image_V001.jpg)
+
+
+
+
+
+
 There are a few purposes to this design:
 
 1- Design a portable analog power stage that can be powered by arbitrary random voltage sources. Right now I am using a $20 24V power supply from Amazon. 
