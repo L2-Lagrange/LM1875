@@ -22,19 +22,22 @@ I suspect the performance would be quite hi-fi with those improvements, however 
 For this build I used semiconductors, bulk caps, and capacitors for the zobel network that were sourced from digikey. Components
 like connectors, resistors, some ceramic capacitors, etc.... were sourced from Amazon
 
-Below is the schematic for the LM1875 power stage. It has a buffered voltage reference, and a buffered phase splitter.
-The two power stages are effectively identical, other than their input voltages being inverted. 
+
+
+
 <p align="center">
   <img src="Schematic_LM1875PowerStage.jpg" width="400">
 </p>
+Schematic for the LM1875 power stage. It has a buffered voltage reference, and a buffered phase splitter.
+The two power stages are effectively identical, other than their input voltages being inverted. 
 
-Below is the schematic for the bluetooth reciever board. The 35khz filter is very important. Without it the signal is very noisy, but the filter
-significantly improves it. If your bluetooth reciever draws much more than ~15mA, an SMPS is likely required because 24->5V causes linear regulators to get quite hot with modest current.
-This board also uses its own Vref buffer, and has a simple pi filter prior to the regulator stages. 
+
 <p align="center">
   <img src="Schematic_Reciever.jpg" width="400">
 </p>
-
+Schematic for the bluetooth reciever board. The 35khz filter is very important. Without it the signal is very noisy, but the filter
+significantly improves it. If your bluetooth reciever draws much more than ~15mA, an SMPS is likely required because 24->5V causes linear regulators to get quite hot with modest current.
+This board also uses its own Vref buffer, and has a simple pi filter prior to the regulator stages. 
 
 
 
