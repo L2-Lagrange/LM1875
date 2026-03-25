@@ -1,19 +1,18 @@
 # LM1875
 This repository holds the schematics for my LM1875 bridge tied load bluetooth system design
 
-
-<img src="Amplifier_Prototype_Image_V001.jpg" width="400">
-
+<p align="center">
+  <img src="Amplifier_Prototype_Image_V001.jpg" width="400">
+</p>
 
 
 There are a few purposes to this design:
 
 1- Design a portable analog power stage that can be powered by arbitrary random voltage sources. Right now I am using a $20 24V power supply from Amazon. 
-Typically I design my own power supplies, but I wanted to design a practical amplifier that works from arbitrary power supplies. 
 
 2- See how usable cheap Amazon bluetooth recievers are when they have an appropriate analog front end. The 35khz 2nd order filter does a great job cleaning it up. It does not sound noisy.
 
-3- Verify that my simple BTL design works properly, which it does
+3- Verify that my simple BTL design works properly, which it does.
 
 
 
