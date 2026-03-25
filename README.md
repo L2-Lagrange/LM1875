@@ -1,5 +1,7 @@
 # LM1875
-This repository holds the schematics for my LM1875 bridge tied load bluetooth system design
+This repository holds the schematics for my LM1875 bridge tied load bluetooth system design. It is a compact portable Bridge-Tied-Load
+power amplifier design that can operate from arbitrary DC voltage sources and a cheap blueooth reciever. The system is composed of a 
+power board and a reciever board. The reciever board has a 2nd order active filter with roughly 35khz cutoff te help remove noise from the reciever.
 
 <p align="center">
   <img src="Amplifier_Prototype_Image_V001.jpg" width="400">
